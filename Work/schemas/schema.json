@@ -1,0 +1,53 @@
+{
+    "fields": [
+        {
+            "metadata": {},
+            "name": "No",
+            "nullable": true,
+            "type": "integer"
+        },
+        {
+            "metadata": {},
+            "name": "TransactionDate",
+            "nullable": true,
+            "type": "double"
+        },
+        {
+            "metadata": {},
+            "name": "HouseAge",
+            "nullable": true,
+            "type": "double"
+        },
+        {
+            "metadata": {},
+            "name": "DistanceToMRT",
+            "nullable": true,
+            "type": "double"
+        },
+        {
+            "metadata": {},
+            "name": "NumberConvenienceStores",
+            "nullable": true,
+            "type": "integer"
+        },
+        {
+            "metadata": {},
+            "name": "Latitude",
+            "nullable": true,
+            "type": "double"
+        },
+        {
+            "metadata": {},
+            "name": "Longitude",
+            "nullable": true,
+            "type": "double"
+        },
+        {
+            "metadata": {},
+            "name": "PriceOfUnitArea",
+            "nullable": true,
+            "type": "double"
+        }
+    ],
+    "type": "struct"
+}
